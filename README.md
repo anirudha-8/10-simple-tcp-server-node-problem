@@ -9,6 +9,7 @@ Welcome to the tenth challenge in the Node.js practical problem series! 🚀 Thi
 Create a simple **TCP Server** using Node.js's `net` module.  
 
 1. The server should accept incoming TCP connections.  
+
 2. It should echo back any data sent to it by the client.  
 
 ---
@@ -16,7 +17,9 @@ Create a simple **TCP Server** using Node.js's `net` module.
 ## 🎯 Learning Goals  
 
 - Understand the basics of the Node.js `net` module.  
+
 - Learn how to create and manage TCP servers in Node.js.  
+
 - Explore handling client-server communication over a TCP connection.  
 
 ---
